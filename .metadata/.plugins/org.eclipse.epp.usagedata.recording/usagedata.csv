@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498119016
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.202.v201004211732,"org.eclipse.wst.ws.service.policy.ui",1371498120958
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1371498120962
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1371498120993
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1371498120995
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1371498123905
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498124225
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498131509
+closed,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1371498132071
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498136863
+error,log,,,"Could not save master table to file 'C:\\Users\\priya\\Documents\\GitHub\\dphome\\.metadata\\.plugins\\org.eclipse.core.resources\\.safetable\\org.eclipse.core.resources'.",1371498144031
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498166399
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498166551
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498168393
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498174935
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498186284
+opened,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1371498186818
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1371498186976
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1371498191852
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1371498200377
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1371498208437
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1371498215275
+activated,editor,org.eclipse.jdt.ui,3.7.0.v20110531-1200,"org.eclipse.jdt.ui.CompilationUnitEditor",1371498216333
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1371498218791
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1371498221666
